@@ -11,8 +11,11 @@ Please use this software as you like, and you are also free to make changes as y
 Donations:
 I'm only 14 so any donatiosn would be very helpful:
 Bitcoin: 1HyVKs5boSbogkxkEuavm8xY7BscEF9neq
+
 Ethereum: 0xaECE3274B124939B2352Cf4064e0695a13b22356
+
 Litecoin: LMufBp4vukV9nvT9WkD8yvnzPUV6xBmbsU
+
 
 
 Thanks for checking out this project.
