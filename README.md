@@ -5,6 +5,7 @@ A program to encrypt all types of files with python. It is very simple to use an
 
 
 Usage
+
 Simply download the exe and run as needed or you can download the .py to make any changes.
 Liscensing:
 Please use this software as you like, and you are also free to make changes as you like.
